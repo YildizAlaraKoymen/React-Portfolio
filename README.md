@@ -4,8 +4,6 @@ A modern and responsive portfolio website built with React.
 
 ## 🚀 Features
 
-- Modern and clean design
-- Fully responsive layout
 - Built with React
 - Easy to customize
 
